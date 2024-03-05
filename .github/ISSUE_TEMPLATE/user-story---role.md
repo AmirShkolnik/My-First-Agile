@@ -1,5 +1,5 @@
 ---
-name: User Story
+name: User Story - Role
 about: This is our default story template
 title: 'USER STORY: <TITLE>'
 labels: ''
